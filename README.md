@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @FreRare
-- 👀 I’m interested in Python and C++
-- 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me: You can not.
+|============================================================ |
+| FreRare aka Takable                                         |
+| ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ |
 
-<!---
-FreRare/FreRare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ “Your own self is your master; who else could be? With
+  yourself well controlled, you gain a master very hard to find.”
+  --Buddha--
+  
