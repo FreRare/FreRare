@@ -3,4 +3,4 @@
 | ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ |
 
 -> Computer Sience Bachelor
--> C, JAVA, PYTHON 
+-> C/C++, JAVASCRIPT, PYTHON 
