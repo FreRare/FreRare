@@ -2,5 +2,5 @@
 | FreRare aka Takable                                         |
 | ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ |
 
--> Computer Sience Bachelor
+-> Computer Science Engineer Bachelor
 -> C/C++, JAVASCRIPT, PYTHON 
