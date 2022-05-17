@@ -3,4 +3,4 @@
 | ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ |
 
 -> Computer Science Engineer Bachelor
--> C/C++, TYPESCRIPT, PYTHON 
+-> Angular, TypeScript, Python, Java
